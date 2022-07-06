@@ -37,3 +37,9 @@ header
   {
     color: #ffffff;
   }
+
+.graphic{
+  background-image: url("images/chantaburi-cover.jpeg");
+  height: 320px;
+  padding: auto;
+}
