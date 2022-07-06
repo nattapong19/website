@@ -5,8 +5,7 @@ body {
     font-family: 'Chakra Petch', sans-serif;
   }
   
-header
-  {
+header{
     background-color: rgb(47, 55, 158);
     color: white;
     height: 70px;
@@ -21,21 +20,18 @@ header
     text-align-last: center;
   }
 
-.mainpage 
-  {
+.mainpage {
       width: 1024px; 
       margin: 0 auto;
   }
 
-.headname1 
- {
+.headname1 {
     color: rgb(231, 201, 103);
     font-size: 30px;
   }
     
-.headname2
-  {
-    color: #ffffff;
+.headname2 {
+    color: #f5efef;
   }
 
 .graphic{
@@ -47,4 +43,9 @@ header
 .maps{
   border: 1px solid #f8e092; 
   height: 300px;
+}
+
+.top10{
+  background-color: white;
+  padding: 10px;
 }
